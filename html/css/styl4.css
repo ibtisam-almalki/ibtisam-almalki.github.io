@@ -1,0 +1,18 @@
+img{
+    border-radius: 50%;
+}
+#typo{
+   
+    color: lightcoral;
+   
+}
+.postcard{
+    text-align: center;
+    font-size: 1em;
+    line-height: 3em;
+    color: rgb(131, 93, 35);
+}
+#hello{
+background-color: rgba(255, 255, 224, 0.349);
+border-radius: 20px;
+}

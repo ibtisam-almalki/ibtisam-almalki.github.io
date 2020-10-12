@@ -1,0 +1,28 @@
+
+.cont{
+width: 100%;
+max-width: 960px;
+margin: auto;
+}
+.nav{
+    display: flex;
+flex-flow: row;
+align-items: stretch;
+flex-direction: row;
+justify-content: flex-start;
+}
+.fx{
+    height: 20px;
+    min-width: 1px;
+    margin: 7px;
+
+}
+.home{
+    background: rgba(245, 245, 220, 0.816);
+}
+.about{
+    background: rgba(245, 245, 220, 0.816);
+}
+.subscribe{
+    background: rgba(245, 245, 220, 0.816);
+}
